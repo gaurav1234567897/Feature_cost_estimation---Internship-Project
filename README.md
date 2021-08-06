@@ -8,7 +8,7 @@ Once we are able to compute the cost or coefficients of individual features, it 
 ## Go through the Final Presentation for the brief dataset EDA and Model Results.
 
 Tests:
-We can also carry out partial F Test to check the relevance of the coefficients obtained in the model.
+We have carried out partial F Test to check the relevance of the coefficients obtained in the model.
 
 ## Added a script bigfile_to_csv.py that resolves the issue of converting large log file to csv file on the tools which otherwise required big ram memory to expand and process and which earlier was not possible on local laptops.
 
